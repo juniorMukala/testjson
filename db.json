@@ -1,6 +1,9 @@
 { "identite": 
 {
-   "name":"Mukala",
+   "name":{
+      "post": "pre",
+      "pre": "post",
+   },
    "prenom":"Junior"
 }
 }
